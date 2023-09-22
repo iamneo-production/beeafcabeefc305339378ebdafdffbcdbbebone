@@ -1,0 +1,30 @@
+Sep 22, 2023 8:35:10 PM utils.Base openBrowser
+INFO: Browser Launched
+Sep 22, 2023 8:35:11 PM utils.Base openBrowser
+INFO: Browser Loaded the URL
+Sep 22, 2023 8:35:11 PM utils.Base ReadData
+INFO: Data Picked from SheetName: Productslist, RowNumber: 2and ColumnName: MobilePhones: Oneplus 11r
+Sep 22, 2023 8:35:11 PM utils.Base ReadData
+WARNING: Oneplus 11r
+Sep 22, 2023 8:35:12 PM utils.Base ClickOnElement
+INFO: Clicked on 
+Sep 22, 2023 8:35:13 PM utils.Base ClickOnElement
+INFO: Clicked on 
+Sep 22, 2023 8:35:15 PM pages.addTocart searchProduct1
+INFO: Product Searched Successfully
+Sep 22, 2023 8:35:16 PM utils.Base ClickOnElement
+INFO: Clicked on OnePlus 11R 5G (Galactic Silver, 8GB RAM, 128GB Storage)
+Sep 22, 2023 8:35:17 PM pages.addTocart addtocart_click
+INFO: Product clicked
+Sep 22, 2023 8:35:23 PM utils.Base ClickOnElement
+INFO: Clicked on 
+Sep 22, 2023 8:35:24 PM pages.addTocart addtocart_click
+INFO: add to cart with product
+Sep 22, 2023 8:35:25 PM utils.Base ClickOnElement
+INFO: Clicked on Cart
+Sep 22, 2023 8:35:27 PM pages.addTocart navigateCart
+INFO: Cart clicked
+Sep 22, 2023 8:35:28 PM runner.Testcase3 addtocart
+INFO: Successfully Asserted for Product Cart Page
+Sep 22, 2023 8:35:28 PM runner.Testcase3 afterMethod
+INFO: Browser closed
