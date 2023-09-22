@@ -44,7 +44,7 @@ public class homepage extends Base  {
             ClickOnElement(td.todaysDeals_label);
             System.out.println("Inside TodaysDeals2");
             Screenshot.getScreenShot(driver, "Loaded Today's Deals");
-            l
+            
         } catch (Exception e) {
             // Handle the exception as needed
             e.printStackTrace(); // Replace this with appropriate error handling or logging

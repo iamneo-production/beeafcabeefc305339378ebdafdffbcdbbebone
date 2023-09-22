@@ -1,12 +1,12 @@
-uistore/searchPage.class
 utils/WebDriverHelper.class
+uistore/searchPage.class
 pages/SearchResultsPage.class
 runner/Testcase1.class
-utils/EventHandler.class
 utils/Base.class
+utils/EventHandler.class
 utils/Screenshot.class
-pages/homepage.class
 utils/LoggerHandler.class
+pages/homepage.class
 pages/addTocart.class
 utils/ExcelReader.class
 uistore/home.class
